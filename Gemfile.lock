@@ -98,6 +98,7 @@ GEM
       sass (>= 3.2)
     globalid (1.2.1)
       activesupport (>= 6.1)
+    hirb (0.7.3)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     jbuilder (2.11.5)
@@ -254,6 +255,7 @@ DEPENDENCIES
   capybara (>= 3.26)
   coffee-rails
   font-awesome-sass (= 4.6.2)
+  hirb (= 0.7.3)
   jbuilder (~> 2.7)
   jquery-rails
   listen (~> 3.3)
